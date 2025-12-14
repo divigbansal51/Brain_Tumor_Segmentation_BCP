@@ -11,4 +11,6 @@ Weeks 1 and 2 will focus on learning python and its libraries alongewith the nec
 ***Required Tools*** <br>
 [Github Tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/) <br>
 [Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/tutorial-jupyter-notebook) <br>
+
 [Google Colab Tutorial](https://www.geeksforgeeks.org/websites-apps/how-to-use-google-colab/) 
+Week 1 submitted
